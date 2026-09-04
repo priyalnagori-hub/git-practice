@@ -1,2 +1,3 @@
 This is the about section text 
-This line was changed on the main branch. 
+This line was changed on the main branch.
+
